@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+.serviceimg{
+  position: absolute;
+  width: 830px;
+  height: 453.03px;
+  left: 268px;
+  top: 62px;
+}
+
+.barrabaixo {
+  position: absolute;
+  width: 100%;
+  height: 340px;
+  left: 0px;
+  top: 620px;
+}
+.serviceaviso{
+  position: absolute;
+  left: 77.82%;
+  right: 1.24%;
+  top: 85%;
+  bottom: 36.15%;
+  
+  font-family: Abel;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11.5217px;
+  line-height: 15px;
+  text-align: right;
+  
+  color: #000005;
+}

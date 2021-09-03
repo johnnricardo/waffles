@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+.servicelink {
+  position: absolute;
+  width: 70px;
+  height: 26px;
+  left: 198px;
+  top: 17px;
+  
+  font-family: Fjalla One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17.6131px;
+  line-height: 22px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  
+  color: #000000;
+}
+.informlink {
+  position: absolute;
+  width: 100px;
+  height: 26px;
+  left: 297px;
+  top: 17px;
+  
+  font-family: Fjalla One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17.6131px;
+  line-height: 22px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  
+  color: #000000;
+
+}
+
+.iglink {
+  position: absolute;
+  width: 82px;
+  height: 26px;
+  left: 986px;
+  top: 17px;
+  
+  font-family: Fjalla One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17.6131px;
+  line-height: 22px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  
+  color: #000000;
+}
+
+.fblink {
+  position: absolute;
+  width: 71px;
+  height: 26px;
+  left: 1099px;
+  top: 17px;
+  
+  font-family: Fjalla One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17.6131px;
+  line-height: 22px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  
+  color: #000000;
+}
+

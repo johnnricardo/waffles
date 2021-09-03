@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+
+.conhecaServico{
+    position: absolute;
+    left: 13.89%;
+    right: 13.06%;
+    top: 15%;
+    bottom: 85.7%;
+    
+    font-family: Fjalla One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25.2842px;
+    line-height: 32px;
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+}
+.serviceimg{
+    position: absolute;
+    left: 9%;
+    right: 11.11%;
+    top: 23%;
+    bottom: 70.5%;
+}
+

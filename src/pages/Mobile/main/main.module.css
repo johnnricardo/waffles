@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+.wafflesimg {
+    position: absolute;
+    width: 210px;
+    height: 132.98px;
+    left: 75px;
+    top: 135px;
+}
+.procurando {
+    position: absolute;
+    width: 305px;
+    height: 28.37px;
+    left: 28px;
+    top: 292px;
+    
+    font-family: Fjalla One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28.0179px;
+    line-height: 35px;
+    text-transform: uppercase;
+    
+    color: #000000;
+}
+
+.wppbutton {
+    position: absolute;
+    width: 305px;
+    height: 40.93px;
+    left: 28px;
+    top: 352px;
+    border: 0.81853px solid #AEAEB6;
+    box-sizing: border-box;
+    border-radius: 8.1853px;
+  
+}
+.callwpp{
+    position: absolute;
+    left: 17.84%;
+    right: 17.84%;
+    top: 20%;
+    bottom: 20%;
+    
+    font-family: Abel;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19.4591px;
+    line-height: 25px;  
+    
+    color: #606062;
+}
+
+.aviso{
+    position: absolute;
+    width: 305px;
+    height: 11.69px;
+    left: 28px;
+    top: 607px;
+    
+    font-family: Abel;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11.7512px;
+    line-height: 15px;
+    
+    color: #606062;
+}
