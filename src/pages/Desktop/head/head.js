@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import NextHead from 'next/head';
-import styles from '../Head/head.module.css';
+import styles from '../head/head.module.css';
 import Link from 'next/link';
 
 function Head({title}) { 
