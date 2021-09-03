@@ -1,4 +1,4 @@
-import styles from '../Main/main.module.css'
+import styles from '../main/main.module.css'
 import Head from '../head/head';
 
 function main() {
